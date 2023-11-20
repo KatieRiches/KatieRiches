@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KatieRiches
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning react and java
-- 💞️ I’m looking to gets started in the industry
+- 👀 I’m a full stack developer
+- 🌱 Javascript, typescript, react 
+- 💞Looking for full stack or front end roles
 - 📫 How to reach me! Email: katiegee2011@gmail.com
 
 <!---
